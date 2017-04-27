@@ -1,0 +1,131 @@
+body {	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 10pt;
+	color: Black;
+	background-color: CornSilk;
+	text-align: justify;
+	vertical-align: top;
+	max-width: 50em;
+ }
+
+a:link { color: Brown; text-decoration: none }
+a:visited { color: Gray; text-decoration: none }
+a:hover { color: Red; text-decoration: none }
+a:active  { color: Red }
+
+name { 	font-size: 15pt;
+	font-weight: bold;
+	color: Red;
+	background-color: transparent;
+}
+
+sc { 	font-variant: small-caps }
+url { 	font-family : courier ;
+	font-size: 12pt }
+tool { 	font-family: sans-serif }
+
+p { 	text-indent: 2ex }
+
+H1 {	font-weight: bold;
+	font-size: 20pt;
+	line-height: 22pt;
+	font-family: sans-serif;
+	font-variant: small-caps;
+	font-style: normal;
+	background-color: transparent;
+	color: rgb(0,0,0);
+	text-align: left;
+}
+
+H2 {	font-weight: bold;
+	font-size: 18pt;
+	line-height: 20pt;
+	font-family: sans-serif;
+	font-variant: small-caps;
+	font-style: normal;
+	background-color: transparent;
+	color: rgb(0,0,0);
+	text-align: left;
+}
+
+H3 {	font-weight: bold;
+	font-size: 14pt;
+	line-height: 16pt;
+	font-family: sans-serif;
+	font-variant: normal;
+	font-style: normal;
+	background-color: transparent;
+	color: rgb(0,0,0);
+	text-align: left;
+}	
+
+H4 {	font-weight: bold;
+	font-size: 12pt;
+	line-height: 14pt;
+	font-family: sans-serif;
+	font-variant: normal;
+	font-style: normal;
+	background-color: transparent;
+	color: rgb(0,0,0);
+	text-align: left;
+}	
+
+H5 {	font-weight: bold;
+	font-size: 10pt;
+	line-height: 12pt;
+	font-family: sans-serif;
+	font-variant: normal;
+	font-style: normal;
+	background-color: transparent;
+	color: rgb(0,0,0);
+	text-align: left;
+}	
+
+
+a.menu:link { color: rgb(0,0,0) ; text-decoration: none }
+a.menu:visited { color: rgb(85,85,85) ; text-decoration: none }
+a.menu:hover { color: rgb(255,255,255) ; text-decoration: none }
+a.menu:active  { color: rgb(255,0,0) ; text-decoration: none }
+
+.menu {
+	font-weight: normal;
+	font-size: 10pt;
+	line-height: 12pt;
+	font-family: sans-serif;
+	background-color: rgb(204,204,204);
+	text-align: left;
+	width: 250px; 
+	height: 100%; 
+	vertical-align: top;
+}
+
+
+a.here:link { color: rgb(255,255,255) ; text-decoration: none }
+a.here:visited { color: rgb(255,255,255) ; text-decoration: none }
+a.here:active  { color: rgb(255,0,0) ; text-decoration: none }
+
+
+.here { 	
+	font-weight: normal;
+	font-size: 10pt;
+	line-height: 12pt;
+	font-family: sans-serif;
+	background-color: rgb(155,155,155);
+	color: rgb(255,255,255);
+	text-align: left;
+}
+
+
+a.new:link { color: rgb(255,0,0) ; text-decoration: none }
+a.new:visited { color: rgb(255,0,0) ; text-decoration: none }
+
+.new {
+	font-weight: normal;
+	font-size: 10pt;
+	line-height: 12pt;
+	font-family: sans-serif;
+	color: rgb(255,0,0);
+	text-align: left;
+}
+
+	

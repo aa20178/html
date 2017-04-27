@@ -1,0 +1,36 @@
+<HTML>
+
+<HEAD>
+
+<TITLE> Title </TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<a href="QS.java">Semaine2 </a>
+
+
+<H1>This is a Header</H1>
+
+<H2>This is a Medium Header</H2>
+
+Send me mail at <a href="mailto:abdourahmane.afifi@ensiie.fr">
+
+abdourahmane "dot" afifi "at" ensiie "dot" fr</a>.
+
+<P> This is a new paragraph!
+
+
+
+<BR> <B><I> test</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML> 
